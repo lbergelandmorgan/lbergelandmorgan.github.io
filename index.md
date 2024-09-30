@@ -5,7 +5,7 @@ description: Lynn Bergeland Morgan is a PhD candidate in Economics at the Univer
 keywords: Lynn, Morgan, Bergeland, applied, health, applied, economics, University of Texas, Dallas, PhD
 ---
 
-I am a PhD candidate in economics at The University of Texas at Dallas.  I employ both applied econometrics and applied microeconomics in my research.  My research interests lie at the intersection of health, labor, and public economics, with a particular focus on Social Security Disability Insurance in the United States.  
+I am a Visiting Assistant Professor of Economics at Texas Christian University.  I employ both applied econometrics and applied microeconomics in my research.  My research interests lie at the intersection of health, labor, and public economics, with a particular focus on Social Security Disability Insurance in the United States.  
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
