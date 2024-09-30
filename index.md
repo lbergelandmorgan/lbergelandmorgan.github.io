@@ -19,7 +19,7 @@ I am a Visiting Assistant Professor of Economics at Texas Christian University. 
     <div class="row-fluid">
         <div class="span5">
             Lynn Bergeland Morgan<br/>
-            Email: lynn.morgan@utdallas.edu<br/>
+            Email: l.a.bergelandmorgan@tcu.edu<br/>
         </div>
 
         <div class="span2">
