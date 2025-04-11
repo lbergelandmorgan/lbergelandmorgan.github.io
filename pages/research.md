@@ -16,7 +16,7 @@ description: Lynn Bergeland Morgan's research
 #### <u> Policy Evaluation with Nonlinear Trended Outcomes: COVID-19 Vaccination Rates in the US</u>
 *This paper discusses pitfalls in two-way fixed effects (TWFE) regressions when the outcome variables contain stochastic trend components. If a policy change shifts trend paths of outcome variables TWFE estimation can distort results and invalidate inference. A robust solution is proposed by allowing for dynamic club membership empirically using a relative convergence test procedure. The determinants of respective club memberships are assessed by panel ordered logit regressions. The approach allows for policy evolution and shifts in outcomes over time according to a convergence cluster framework with transitions over time and the possibility of eventual convergence to a single cluster as policy impacts mature. An application to new weekly US COVID-19 vaccination policy data reveals that Federal-level vaccine mandates produced a merger of State vaccination rates into a single convergence cluster by mid-September 2021.*
 
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/logt32.pdf)
+[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/logt35.pdf)
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
